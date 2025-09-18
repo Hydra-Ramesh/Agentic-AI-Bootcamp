@@ -1,0 +1,10 @@
+pwd-> Present Working Directory
+cd (preferable folder)-> Change Directory
+mkdir (folder name)-> Make Folder
+rmdir (folder name)-> Remove Folder
+touch (file name with exatension)-> Create File
+nano (file name) -> Open File 
+cd ..-> Back to Previous Directory
+cp (file name) (destination)-> Copy File
+rm (file name) -> Remove File
+rm -r (file name)-> Remove Content Also
