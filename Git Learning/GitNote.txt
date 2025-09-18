@@ -1,0 +1,12 @@
+git --version-> Check Version of Git
+git config --list-> Add Config User
+git confog --global user.name "User Name of Git"-> Git User name Set
+git config --global user.email "User Email"-> Git Email Set
+git init-> Init. Your Folder
+git status-> Check Status
+git add .-> Add all folders and file
+git add (folder name / file name) -> for specific folder
+git banch -M main -> Set branch name as main
+git commit -m "Commit Message"-> Add a commit Message
+git push -u origin main-> Push First Time
+git push-> Push inside a existing Directory
